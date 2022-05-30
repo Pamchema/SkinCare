@@ -1,0 +1,18 @@
+.background-color{
+    background-color:pink;
+    width:100%;
+}
+
+
+.width{
+    width:5%;
+}
+.text-primary {
+    color: pink !important;
+
+}
+.btn.btn-primary{
+    background-color: pink;
+}
+
+
